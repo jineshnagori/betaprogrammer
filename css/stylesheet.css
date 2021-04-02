@@ -39,11 +39,6 @@ body {
 	color: #4c4d4d;
 	font-family: "Rubik", sans-serif;
 }
-#particles-js {
-	width: 100%;
-    height: 100%;
-    position: relative;
-}
 /*-------- Animsition Preloader --------*/
 .animsition-preloader {
 	position: fixed;
