@@ -48,7 +48,7 @@ body {
 .particles-js-canvas-el {
   position: absolute;
   top: 0%;
-  z-index: 2;
+  /* z-index: 2; */
 }
 /*-------- Animsition Preloader --------*/
 .animsition-preloader {
